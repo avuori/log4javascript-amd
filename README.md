@@ -1,4 +1,4 @@
-Log4javascript-amd
+log4javascript-amd
 =====
 
 This is an AMD (Asynchronous Module Definition) fork of Tim Down's log4javascript. See http://log4javascript.org./
