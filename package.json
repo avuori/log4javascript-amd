@@ -1,0 +1,7 @@
+{
+    "name": "log4javascript-amd",
+    "version": "1.2.0-amd",
+    "devDependencies": {
+        "uglify-js": "1.2.x"
+    }
+}
